@@ -1,0 +1,14 @@
+:root {
+	font-family: Roboto, sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+
+	box-sizing: border-box;
+	--orange: #f0952d;
+	--gray: #31363f;
+	--dark: #191b1d;
+	--light: #ffffff;
+
+	color: var(--dark);
+	background-color: var(--light);
+}

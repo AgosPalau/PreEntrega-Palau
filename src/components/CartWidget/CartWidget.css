@@ -1,0 +1,10 @@
+.imgCarrito{
+    width: 80px;
+    height: 50px;
+}
+.widget{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
